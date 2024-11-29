@@ -22,7 +22,7 @@ return { --云脚本 白名单
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["1258rhhv"] = true,
 ["xiaopi88"] = true,
 ["yuhuhbiji2"] = true,
 ["MF8966"] = true,
