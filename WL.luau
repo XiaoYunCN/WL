@@ -18,7 +18,7 @@ return { --云脚本 白名单
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["bldx9"] = true,
 ["10h_pack"] = true,
 ["CN_hahae"] = true,
 ["WCWCWC123455"] = true,
