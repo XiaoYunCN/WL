@@ -143,7 +143,6 @@ return { --云脚本 白名单
 ["Fish212327"] = true,
 ["chuanchuanbu"] = true,
 ["hsudjxc"] = true,
-["Long_liveChina2"] = true,
 ["114514521114514A"] = true,
 ["afcjobfby"] = true,
 ["eyipqv"] = true,
