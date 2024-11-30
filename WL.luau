@@ -34,7 +34,7 @@ return { --云脚本 白名单
 ["MF8966"] = true,
 ["liuanhedangran"] = true,
 ["chb5011"] = true,
-["KMT7777"] = true,
+["KMTK7777"] = true,
 ["34664iqiw"] = true,
 ["Eternitvwhisper"] = true,
 ["ksshcz"] = true,
