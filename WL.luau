@@ -3,7 +3,7 @@ return { --云脚本 白名单
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["qwqihhsi"] = true,
 ["kanhaidazhou"] = true,
 ["12gcuh"] = true,
 ["354sansERrro"] = true,
