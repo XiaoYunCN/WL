@@ -9,7 +9,7 @@ return { --云脚本 白名单
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["swipp848"] = true,
 ["huyuxiang9"] = true,
 ["174032a"] = true,
 ["sjsjsjsjjsjj86"] = true,
