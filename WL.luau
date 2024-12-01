@@ -1,4 +1,4 @@
-return { --云脚本 白名单
+return {
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
