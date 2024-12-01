@@ -559,7 +559,7 @@ return { --云脚本 白名单
 ["aajjjjji"] = true,
 ["123456qwrushqheg"] = true,
 ["X_Y613"] = true,
-["用户名"] = true,
+["ddhg957"] = true,
 ["Km_known001"] = true,
 ["shdhudgwu"] = true,
 ["9536qqww"] = true,
