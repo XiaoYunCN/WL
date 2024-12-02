@@ -8,7 +8,7 @@ return {
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["wssg7733"] = true,
 ["GogoEO05"] = true,
 ["gkc115566"] = true,
 ["keaidelaozhang1"] = true,
