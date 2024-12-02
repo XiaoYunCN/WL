@@ -6,7 +6,7 @@ return {
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["97NXN"] = true,
 ["123qeerty5"] = true,
 ["wssg7733"] = true,
 ["GogoEO05"] = true,
