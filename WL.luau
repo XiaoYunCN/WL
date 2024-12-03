@@ -12,7 +12,7 @@ return {
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["用户名"] = true,
+["114514CVZ"] = true,
 ["Waipi123"] = true,
 ["zndiff9"] = true,
 ["Koreanu233"] = true,
