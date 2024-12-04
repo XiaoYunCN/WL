@@ -7,7 +7,7 @@ return {
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-["User_LATstudio828212"] = true,
+["USER_LATstudio828212"] = true,
 ["Lead_45462"] = true,
 ["Beibei_007"] = true,
 ["zhangsuibian"] = true,
