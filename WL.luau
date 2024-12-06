@@ -5,7 +5,7 @@ return {
 ["用户名"] = true,
 ["用户名"] = true,
 ["用户名"] = true,
-qwettt666"] = true,
+["qwettt666"] = true,
 ["IllIlIllllIIIIll"] = true,
 ["USER_LATstudio828212"] = true,
 ["Lead_45462"] = true,
