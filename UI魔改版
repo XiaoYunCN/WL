@@ -2,7 +2,7 @@
 library by silent
 
 
-Magic Revision Make by XiaoYun
+Magic Revision Make by XXC
 ]]
 repeat task.wait() until game:IsLoaded()
 local library = {}
