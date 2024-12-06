@@ -6,7 +6,7 @@ Magic Revision Make by XXC
 ]]
 game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "云脚本",
-        Text = "我QQ大号被封90天，真是无语😭",
+        Text = "我QQ大号被封90天，我真是活跃😭",
         Duration = 11,
     })
 repeat task.wait() until game:IsLoaded()
