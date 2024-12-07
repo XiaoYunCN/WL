@@ -1,8 +1,8 @@
 --[[
-library by silent
+library：silent lib  By silentben8x
 
 
-Magic Revision Make by XXC
+Magic Revision Make By XXC
 ]]
 game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "云脚本",
