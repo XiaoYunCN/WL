@@ -1,13 +1,13 @@
 --高级用户使用服务器专属版本
 --普通用户使用通用版、自动瞄准、透视功能、脚本中心和其他
-返回{
-[“用户名”]=true，
-[“用户名”]=true，
-返回{
-[用户名]]=true
-[用户名]]=true
-[用户名]]=true
-[zndif9]]=true
+return {
+["用户名"] = true,
+["用户名"] = true,
+["用户名"] = true,
+["用户名"] = true,
+["用户名"] = true,
+["用户名"] = true,
+["用户名"] = true,
 ["sheo_gaoks"] = true,
 ["DAQIAN25"] = true,
 ["mirendixiaozhang666"] = true,
@@ -21,7 +21,7 @@
 ["USER_LATstudio828212"] = true,
 ["Lead_45462"] = true,
 ["Beibei_007"] = true,
-[用户名]]=true
+["zhangsuibian"] = true,
 ["function963"] = true,
 ["xu3601"] = true,
 ["114514CVZ"] = true,
@@ -49,7 +49,7 @@
 ["djh987655"] = true,
 ["114514ffgujjj"] = true,
 ["ughtfhegd"] = true,
-[“litangxuanfengikun”]=真，
+["litangxuanfengikun"] = true,
 ["euehhdydhd"] = true,
 ["XcNBAA"] = true,
 ["lblyyagudu"] = true,
